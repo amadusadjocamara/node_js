@@ -1,0 +1,19 @@
+{
+  "name": "ex-005",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.5"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
