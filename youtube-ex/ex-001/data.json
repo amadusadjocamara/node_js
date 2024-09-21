@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "name": "Apple",
+      "image": "🍏",
+      "nutrients": "Vitamin C",
+      "from-country": "USA",
+      "quantity": 10,
+      "price": 1.5,
+      "organic": true,
+      "desc": "A crisp and sweet red apple, celebrated for its refreshing taste.\nGreat for snacking, baking, or adding to salads for extra flavor.\nRich in Vitamin C, it helps boost the immune system naturally.\nEnjoy the crunchy, healthy delight that satisfies every bite."
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "image": "🍌",
+      "nutrients": "Potassium",
+      "from-country": "Ecuador",
+      "quantity": 12,
+      "price": 0.3,
+      "organic": false,
+      "desc": "Soft, sweet bananas packed with energy for an active lifestyle.\nHigh in potassium, they support muscle function and heart health.\nPerfect for breakfast, smoothies, or as a quick snack on the go.\nA nutritious fruit that fuels your day with natural sweetness."
+    },
+    {
+      "id": 3,
+      "name": "Orange",
+      "image": "🟠",
+      "nutrients": "Vitamin C",
+      "from-country": "Spain",
+      "quantity": 8,
+      "price": 0.7,
+      "organic": true,
+      "desc": "Juicy, flavorful oranges bursting with natural sweetness and zest.\nPacked with Vitamin C to help strengthen the immune system.\nGreat for juicing or as a refreshing snack at any time of day.\nA delicious way to stay hydrated and full of energy naturally."
+    }
+  ]
+  
