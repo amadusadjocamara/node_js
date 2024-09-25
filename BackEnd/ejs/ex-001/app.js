@@ -7,7 +7,7 @@ const port = 8080;
 app.get('/',(req, res)=>{
     const today = new Date();
     const day = today.getDay();
-    console.log(day);
+    // console.log(day);
     let type = 'a weekday';
     let adv = 'it is time to work hard'
 
